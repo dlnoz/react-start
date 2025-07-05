@@ -13,4 +13,4 @@ function ArrowRight(){
     )
 }
 
-export default ArrowRight
+export {ArrowRight}

@@ -1,0 +1,18 @@
+import Bro from "./hero.img.png"
+import Logo from "./logo-img.png"
+import HeroIcon1 from "./hero.icon1.png"
+import HeroIcon2 from "./hero.icon2.png"
+import HeroIcon3 from "./hero.icon3.png"
+import HeroIcon4 from "./hero.icon4.png"
+import projectimg1 from "./project1.png"
+import projectimg2 from "./project2.png"
+import projectimg3 from "./project3.png"
+import serviceimg1 from "./service1.png"
+import serviceimg2 from "./service2.png"
+import serviceimg3 from "./service3.png"
+import thatsme1 from "./thatsme1.png"
+import thatsme2 from "./thatsme2.png"
+import thatsme3 from "./thatsme3.png"
+import thatsme4 from "./thatsme4.png"
+
+export {Bro, Logo, HeroIcon1, HeroIcon2, HeroIcon3, HeroIcon4, projectimg1, projectimg2, projectimg3, serviceimg1, serviceimg2, serviceimg3, thatsme1, thatsme2, thatsme3, thatsme4}
